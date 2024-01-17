@@ -45,7 +45,7 @@ export async function AddSetDialog({ searchParams, bricklist }: {
                             </Button>
                         </div>
                         <form className="flex">
-                            <input name="set" value={set.id} hidden />
+                            <input name="set" defaultValue={set.id} hidden />
                             <Button className="w-full" formAction={addSetToWishlist}>Hinzufügen</Button>
                         </form>
                     </div>
