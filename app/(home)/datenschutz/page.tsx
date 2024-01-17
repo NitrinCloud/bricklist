@@ -113,7 +113,7 @@ export default function PrivacyPage() {
                                 - Sofort (SOFORT GmbH, Theresienh&ouml;he 12, 80339 M&uuml;nchen, Deutschland)<br />
                                 - iDeal (Currence Holding BV, Beethovenstraat 300 Amsterdam, Niederlande)<br />
                                 - giropay (Paydirekt GmbH, Stephanstr. 14-16, 60313 Frankfurt am Main<br />
-                                - bancontact (Bancontact Payconiq Company, Rue d'Arlon 82, 1040 Br&uuml;ssel, Belgien)<br />
+                                - bancontact (Bancontact Payconiq Company, Rue d&apos;Arlon 82, 1040 Br&uuml;ssel, Belgien)<br />
                                 - blik (Polski Standard P&lstrok;atno&sacute;ci sp. z o.o., ul. Czerniakowska 87A, 00-718 Warschau, Polen)<br />
                                 - eps (PSA Payment Services Austria GmbH, Handelskai 92, Gate 2<br />
                                 1200 Wien, &Ouml;sterreich)<br />
